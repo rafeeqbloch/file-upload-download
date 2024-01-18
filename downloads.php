@@ -16,6 +16,7 @@
     <th>size (in mb)</th>
     <th>Downloads</th>
     <th>Action</th>
+    <th>Action</th>
   
   
 </thead>
