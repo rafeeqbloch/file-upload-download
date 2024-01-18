@@ -16,6 +16,11 @@
     <th>size (in mb)</th>
     <th>Downloads</th>
     <th>Action</th>
+    <th>ID</th>
+    <th>Filename</th>
+    <th>size (in mb)</th>
+    <th>Downloads</th>
+    <th>Action</th>
   
 </thead>
 <tbody>
